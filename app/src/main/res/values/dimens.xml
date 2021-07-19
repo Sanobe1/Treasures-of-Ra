@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_size_all">70dp</dimen>
+    <dimen name="image_margin">8dp</dimen>
+    <dimen name="horizontalLineSize">270dp</dimen>
+    <dimen name="verticalLineSize">270dp</dimen>
+    <dimen name="linesThickness">5dp</dimen>
+</resources>
